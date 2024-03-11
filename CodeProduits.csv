@@ -1,0 +1,124 @@
+Code Produit,Code CPC,Produit
+2501,'S2501,Population
+2511,'S2511,Blé et produits
+2513,'S2513,Orge et produits
+2514,'S2514,Maïs et produits
+2515,'S2515,Seigle et produits
+2516,'S2516,Avoine
+2517,'S2517,Millet et produits
+2518,'S2518,Sorgho et produits
+2520,'S2520,Céréales; Autres
+2531,'S2531,Pommes de Terre et produits
+2532,'S2532,Manioc et produits
+2533,'S2533,Patates douces
+2534,'S2534,Racines nda
+2535,'S2535,Ignames
+2536,'S2536,Sucre; canne
+2537,'S2537,Sucre; betterave
+2541,'S2541,Sucre non centrifugé
+2542,'S2542,Sucre Eq Brut
+2543,'S2543,Edulcorants Autres
+2546,'S2546,Haricots
+2547,'S2547,Pois
+2549,'S2549,Légumineuses Autres et produits
+2551,'S2551,Noix et produits
+2555,'S2555,Soja
+2556,'S2556,Arachides Decortiquees
+2557,'S2557,Graines de tournesol
+2558,'S2558,Graines Colza/Moutarde
+2559,'S2559,Graines de coton
+2560,'S2560,Coco (Incl Coprah)
+2561,'S2561,Sésame
+2562,'S2562,Palmistes
+2563,'S2563,Olives
+2570,'S2570,Plantes Oleiferes; Autre
+2571,'S2571,Huile de Soja
+2572,'S2572,Huile d'Arachide
+2573,'S2573,Huile de Tournesol
+2574,'S2574,Huile de Colza&Moutarde
+2575,'S2575,Huile Graines de Coton
+2576,'S2576,Huile de Palmistes
+2577,'S2577,Huile de Palme
+2578,'S2578,Huile de Coco
+2579,'S2579,Huile de Sésame
+2580,'S2580,Huile d'Olive
+2581,'S2581,Huile de Son de Riz
+2582,'S2582,Huile de Germe de Maïs
+2586,'S2586,Huil Plantes Oleif Autr
+2601,'S2601,Tomates et produits
+2602,'S2602,Oignons
+2605,'S2605,Légumes; autres
+2611,'S2611,Oranges; Mandarines
+2612,'S2612,Citrons & Limes et produits
+2613,'S2613,Pamplemousse et produits
+2614,'S2614,Agrumes; Autres
+2615,'S2615,Bananes
+2616,'S2616,Bananes plantains
+2617,'S2617,Pommes et produits
+2618,'S2618,Ananas et produits
+2619,'S2619,Dattes
+2620,'S2620,Raisin
+2625,'S2625,Fruits; autres
+2630,'S2630,Café et produits
+2633,'S2633,Feve de Cacao et produits
+2635,'S2635,Thé
+2640,'S2640,Poivre
+2641,'S2641,Piments
+2642,'S2642,Girofles
+2645,'S2645,Épices; Autres
+2655,'S2655,Vin
+2656,'S2656,Bière
+2657,'S2657,Boissons Fermentés
+2658,'S2658,Boissons Alcooliques
+2659,'S2659,Alcool; non Comestible
+2680,'S2680,Aliments pour enfants
+2731,'S2731,Viande de Bovins
+2732,'S2732,Viande d'Ovins/Caprins
+2733,'S2733,Viande de porcins
+2734,'S2734,Viande de Volailles
+2735,'S2735,Viande; Autre
+2736,'S2736,Abats Comestible
+2737,'S2737,Graisses Animales Crue
+2740,'S2740,Beurre; Ghee
+2743,'S2743,Crème
+2744,'S2744,Oeufs
+2745,'S2745,Miel
+2761,'S2761,Poissons Eau Douce
+2762,'S2762,Perciform
+2763,'S2763,Poissons Pelagiques
+2764,'S2764,Poissons Marins; Autres
+2765,'S2765,Crustacés
+2766,'S2766,Cephalopodes
+2767,'S2767,Mollusques; Autres
+2768,'S2768,Viande de Anim Aquatiq
+2769,'S2769,Animaux Aquatiques Autre
+2775,'S2775,Plantes Aquatiques
+2781,'S2781,Huiles de Poissons
+2782,'S2782,Huiles de Foie de Poisso
+2805,'S2805,Riz (Eq Blanchi)
+2848,'S2848,Lait - Excl Beurre
+2899,'S2899,Miscellanees
+2901,'S2901,Total General
+2903,'S2903,Produits Vegetaux
+2905,'S2905,Cèrèales - Excl Bière
+2907,'S2907,Racines Amyl
+2908,'S2908,Cultures Sucrieres
+2909,'S2909,Sucre & Edulcorants
+2911,'S2911,Légumineuses Sèches
+2912,'S2912,Fruit Coque
+2913,'S2913,Cultures Oleágineuses
+2914,'S2914,Huiles végétales
+2918,'S2918,Légumes
+2919,'S2919,Fruits - Excl Vin
+2922,'S2922,Stimulants
+2923,'S2923,Épices
+2924,'S2924,Boissons Alcooliques
+2928,'S2928,Miscellanees
+2941,'S2941,Produits Animaux
+2943,'S2943,Viande
+2945,'S2945,Abats
+2946,'S2946,Graisses animales
+2948,'S2948,Lait - Excl Beurre
+2949,'S2949,Oeufs
+2960,'S2960,Poisson & Fruits de Mer
+2961,'S2961,Produits Aquatiques; Aut
